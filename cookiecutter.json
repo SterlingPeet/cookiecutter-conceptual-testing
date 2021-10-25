@@ -1,0 +1,8 @@
+{
+    "full_name": "Sterling Peet",
+    "email": "noreply@nospam.com",
+    "slug": "TestProject",
+    "foo": ["yes", "no"],
+    "bar": "{{ cookiecutter.foo }}",
+    "baz": ["{% if cookiecutter.foo == 'yes' %}yes{% else %}no{% endif %}", "{% if cookiecutter.foo != 'yes' %}yes{% else %}no{% endif %}"]
+}

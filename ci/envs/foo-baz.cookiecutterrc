@@ -1,0 +1,5 @@
+default_context:
+  bar: 'no'
+  baz: 'yes'
+  foo: 'yes'
+  slug: TestProject

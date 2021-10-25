@@ -1,0 +1,3 @@
+[foobar]
+foo = {{cookiecutter.foo}}
+bar = {{cookiecutter.bar}}
